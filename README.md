@@ -1,2 +1,2 @@
 # Description
-This repository focus on responsive design of webpages.
+This project is based on media queries and responsive design making.
