@@ -1,2 +1,2 @@
-# project3
+# Description
 This repository focus on responsive design of webpages.
